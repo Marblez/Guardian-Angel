@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentStart="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_instructions"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:orientation="vertical"
+        tools:context="bigmarbz.guardianangel.instructions"
+        android:weightSum="1">
+
+
+        <TextView
+            android:text="Instructions"
+            android:layout_width="wrap_content"
+            android:textSize="40dp"
+            android:textAppearance="@style/Base.ThemeOverlay.AppCompat"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView8"
+            android:layout_gravity="center_horizontal"
+            android:layout_centerHorizontal="true" />
+
+
+        =
+
+        <ImageView
+            android:layout_width="349dp"
+            android:layout_height="131dp"
+            app:srcCompat="@drawable/distress"
+            android:id="@+id/imageView2"
+            android:layout_weight="0.54" />
+
+        <TextView
+            android:text="Distress Signal"
+            android:layout_width="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginTop="20dp"
+            android:textAppearance="@style/Base.ThemeOverlay.AppCompat"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView11"
+            android:layout_gravity="center_horizontal"
+            android:layout_centerHorizontal="true"  />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:text="The distress signal sends a distress signal to your contacts listed under 'distress contacts' and communicates a very detailed 6 significant figure longitude and latitude of your current location."></TextView>
+
+        <TextView
+            android:text="Emergency Signal"
+            android:layout_width="wrap_content"
+            android:textSize="20dp"
+            android:textAppearance="@style/Base.ThemeOverlay.AppCompat"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/textView10"
+            android:layout_gravity="center_horizontal"
+            android:layout_centerHorizontal="true" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="147dp"
+            app:srcCompat="@drawable/emergency"
+            android:id="@+id/imageView3" />
+
+        <TextView
+            android:text="The emergency signal sends a n signal to your contacts listed under 'emergency contacts' and communicates a very detailed 6 significant figure longitude and latitude of your current location."
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView12233" />
+
+        <TextView
+            android:text="I'm Okay Signal"
+            android:layout_width="wrap_content"
+            android:textSize="20dp"
+            android:textAppearance="@style/Base.ThemeOverlay.AppCompat"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/textView1320"
+            android:layout_gravity="center_horizontal"
+            android:layout_centerHorizontal="true" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="147dp"
+            app:srcCompat="@drawable/fine"
+            android:id="@+id/imageView324t" />
+
+        <TextView
+            android:text="The 'I'm Okay' signal sends an SMS to your emergency and distress contacts letting them know that you are now fine and do not require their immediate assistance or attention. It acts as a precautios measure to prevent accidental false alarms."
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView123aewf" />
+
+        <TextView
+            android:text="Set Contacts"
+            android:layout_width="wrap_content"
+            android:textSize="20dp"
+            android:textAppearance="@style/Base.ThemeOverlay.AppCompat"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/textView103"
+            android:layout_gravity="center_horizontal"
+            android:layout_centerHorizontal="true" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="147dp"
+            app:srcCompat="@drawable/contacts"
+            android:id="@+id/imageView33" />
+
+        <TextView
+            android:text="Allows you to add or remove any emergency and distress contacts that you might contact and saves their information there."
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1232" />
+
+        <TextView
+            android:text="Track Location"
+            android:layout_width="wrap_content"
+            android:textSize="20dp"
+            android:textAppearance="@style/Base.ThemeOverlay.AppCompat"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/textView132rf03"
+            android:layout_gravity="center_horizontal"
+            android:layout_centerHorizontal="true" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="147dp"
+            app:srcCompat="@drawable/track"
+            android:id="@+id/imageView3asdgf3" />
+
+        <TextView
+            android:text="In case one is caught in an emergency situation whne one is in a vehicle or otherwise traveling a set amount of distance, the track me feature allows the user to sends his or her coordinates in longitude and latitude to his or her emergency contacts every 2 minutes for 20 minutes."
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView12ewfa32" />
+
+        <TextView
+            android:text="Set Home location"
+            android:layout_width="wrap_content"
+            android:textSize="20dp"
+            android:textAppearance="@style/Base.ThemeOverlay.AppCompat"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/texwetView132rf03"
+            android:layout_gravity="center_horizontal"
+            android:layout_centerHorizontal="true" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="147dp"
+            app:srcCompat="@drawable/setlocation"
+            android:id="@+id/imageView3asdgf3333" />
+
+        <TextView
+            android:text="Set your home or house location using this activity so you can quickly track your way back home using the 'Go Home' feature"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView12ewfadsfa32" />
+
+        <TextView
+            android:text="Go Home"
+            android:layout_width="wrap_content"
+            android:textSize="20dp"
+            android:textAppearance="@style/Base.ThemeOverlay.AppCompat"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:id="@+id/tView132rf03"
+            android:layout_gravity="center_horizontal"
+            android:layout_centerHorizontal="true" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="147dp"
+            app:srcCompat="@drawable/home"
+            android:id="@+id/imagw3asdgf3333" />
+
+        <TextView
+            android:text="Records your current longitudinal and latitudinal position and utilizes Google Maps as well as your pre-set home location in this app to help you navigate your way back to your home."
+            android:layout_width="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView12ewfadsfa32" />
+    </LinearLayout>
+</ScrollView>

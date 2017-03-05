@@ -23,3 +23,22 @@
   </ul>
 </ul>
 </p>
+
+<b>Situations to use Guardian Angel</b>
+<p><ul>
+  <li>Emergency situations when you are in danger</li>
+  <ul>
+  <li>Contacts are split into 2 kinds of contacts: distress contacts and emergency contacts (both easily manageable in the “Set Contacts” page) to help you contact different people depending on your situation.</li>
+  <li>Send a signal to all of the contacts you have listed and give them your specific location in a split-second</li>
+  </ul>
+  <li>Emergency situations when you are in a moving vehicle</li>
+  <ul>
+ <li> Track your location: updates your location every 2 minutes for 20 minutes </li>
+  </ul>
+  <li>Navigating home when inebriated</li>
+  <ul>
+  <li>Just click on the “Go-Home” button and follow the Google Maps navigation (No need to type in current location or home address)</li>
+  
+  </ul>
+</ul>
+</p>

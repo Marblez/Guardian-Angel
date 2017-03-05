@@ -4,3 +4,9 @@
 <p><i>Why is Guardian Angel so important?</i> The design of Guardian Angel is predicated on the possibility of people not being able to send a multitude of SMS messages to numerous contacts about their current circumstance and location in a short period of time, especially in an emergency situation. Thus, Guardian Angel is an extremely efficient device that acts as an interface to help you communicate your need of attention to a multitude of emergency contacts you may have. </p>
 
 <b>Main Features:</b>
+<p><ul>
+  <li>thesitewizard.com</li>
+  <li>thefreecountry.com</li>
+  <li>howtohaven.com</li>
+</ul>
+</p>

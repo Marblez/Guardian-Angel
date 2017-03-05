@@ -5,8 +5,8 @@
 
 <b>Main Features:</b>
 <p><ul>
-  <li>thesitewizard.com</li>
-  <li>thefreecountry.com</li>
-  <li>howtohaven.com</li>
+  <li>Distress and Emergency Contacts</li>
+  <li>"I'm Okay" Signal</li>
+  <li>Quick Navigation Home</li>
 </ul>
 </p>

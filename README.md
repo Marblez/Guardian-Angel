@@ -43,6 +43,11 @@
 </ul>
 </p>
 
+<h1> Presenting the App at the IEEE Showcase </h1>
+<a href="www.google.com" target="_blank">  
+                <img src="IEEE" alt="Mobile App Development" style="width:30px;height:228px;">
+            </a>
+
 <a align="center"><a href ="https://play.google.com/store/apps/details?id=bigmarbz.guardianangel">Guardian Angel Google Play Link</a>
 
 <a align="center"><a href ="https://www.linkedin.com/in/matthewwang2020">Linkedin Profile</a>

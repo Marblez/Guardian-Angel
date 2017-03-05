@@ -6,7 +6,20 @@
 <b>Main Features:</b>
 <p><ul>
   <li>Distress and Emergency Contacts</li>
+  <ul>
+  <li>Able to set different contacts by adding/removing them quickly and easily</li>
+  <li>Sends contacts your current location in longitude and latitude to the ninth significant digit and need for attention with the press of a single button (split into distress and emergency situations depending on current need)</li>
+  <li>Can “track location” and send your location in longitude and latitude every 2 minutes for 20 minutes to update contacts with your current position</li>
+  </ul>
   <li>"I'm Okay" Signal</li>
+  <ul>
+ <li> Sends a signal to contacts notifying them the situation has been resolved and you are fine now </li>
+  </ul>
   <li>Quick Navigation Home</li>
+  <ul>
+   <li>Pre-set your home location and save it into phone's internal storage </li>
+  <li>Automatically marks your current location and directs you home via Google Maps no matter where you are</li>
+  
+  </ul>
 </ul>
 </p>

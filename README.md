@@ -43,7 +43,9 @@
 </ul>
 </p>
 
-<!-- <h1> Presenting the App at the IEEE Showcase </h1>
+<!-- 
+
+<h1> Presenting the App at the IEEE Showcase </h1>
 <a href="www.google.com" target="_blank">  
                 <img src="IEEE.jpg" alt="IEEE Showcase" height="500" width="670">
             </a>
@@ -51,3 +53,5 @@
 <a align="center"><a href ="https://play.google.com/store/apps/details?id=bigmarbz.guardianangel">Guardian Angel Google Play Link</a>
 
 <a align="center"><a href ="https://www.linkedin.com/in/matthewwang2020">Linkedin Profile</a>
+
+-->

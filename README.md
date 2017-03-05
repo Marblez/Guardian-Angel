@@ -43,4 +43,6 @@
 </ul>
 </p>
 
-<a align="left"><a href ="https://play.google.com/store/apps/details?id=bigmarbz.guardianangel">Guardian Angel Google Play Link</a>
+<a align="center"><a href ="https://play.google.com/store/apps/details?id=bigmarbz.guardianangel">Guardian Angel Google Play Link</a>
+
+<a align="center"><a href ="https://www.linkedin.com/in/matthewwang2020">Linkedin Profile</a>

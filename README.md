@@ -24,7 +24,7 @@
 </ul>
 </p>
 
-<b>Situations to use Guardian Angel</b>
+<b>Situations to use Guardian Angel:</b>
 <p><ul>
   <li>Emergency situations when you are in danger</li>
   <ul>
@@ -42,3 +42,7 @@
   </ul>
 </ul>
 </p>
+
+<ul>
+<li align="left"><a href ="https://play.google.com/store/apps/details?id=bigmarbz.guardianangel">Guardian Angel Google Play Link</a></li>
+<ul>

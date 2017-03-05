@@ -43,6 +43,4 @@
 </ul>
 </p>
 
-<ul>
-<li align="left"><a href ="https://play.google.com/store/apps/details?id=bigmarbz.guardianangel">Guardian Angel Google Play Link</a></li>
-<ul>
+<a align="left"><a href ="https://play.google.com/store/apps/details?id=bigmarbz.guardianangel">Guardian Angel Google Play Link</a>
